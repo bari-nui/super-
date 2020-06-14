@@ -1,0 +1,478 @@
+#EXTM3U
+
+#EXTINF:-1,~BARINUI~
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128198
+#EXTINF:-1,: Eurosport 2 FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128197
+#EXTINF:-1,RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:-1,GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+#EXTINF:-1,MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1,INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1,GTV [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,GTV [TC]540p
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,MNC [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,MNC [TC]540p
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,RCTI [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,RCTI [TC]540p
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,INEWS [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,INEWS [TC][540p
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,Usee Sports 1
+https://cdnmdc1.useetv.com/joss/15/useesport/chunklist_w900773852_b1344100_sleng_enc=oStQBNe50bXdVC3Y97qsvQ.m3u8
+#EXTINF:-1,Usee Sports 2
+https://cdnmdc1.useetv.com/joss/15/useesports2/chunklist_w1187158371_b1344100_sleng_enc=4hrXjB0Vjur2BUC7UieXYg.m3u8
+#EXTINF:-1,Bein Sport 1
+https://cdnmdc1.useetv.com/joss/15/bein1/chunklist_w1722967105_b1344100_sleng_enc=VYelBb3b8Bkhsf0SLZP4Xg.m3u8
+#EXTINF:-1,Bein Sport 2
+https://cdnmdc1.useetv.com/joss/15/bein2/chunklist_w1561975415_b1344100_sleng._enc=6vIH6kcV9AbHnfuOZGVQJA.m3u8
+#EXTINF:-1,Champion TV 1
+https://cdnmdc1.useetv.com/joss/15/champion1/chunklist_w1404293386_b1344100_sleng_enc=KW-h3CW4PqTKG0Nj9g9G0w.m3u8
+#EXTINF:-1,Champion TV 2
+https://cdnmdc1.useetv.com/joss/15/champion2/chunklist_w610155441_b1344100_sleng_enc=eiN7hXX8ogUYnGeNp-kW7Q.m3u8
+#EXTINF:-1,Fox Sport 1
+https://cdnmdc1.useetv.com/joss/15/foxsport1/chunklist_w429029260_b894100_sleng_enc=csmyzer5hTAdZBeC5gYmAw.m3u8
+#EXTINF:-1,Fox Sport 2
+https://cdnmdc1.useetv.com/joss/15/foxsport2/chunklist_w1077827204_b1344100_sleng_enc=Vprevbkfpq38_qJZmwekzw.m3u8
+#EXTINF:-1,Fox Sport 3
+https://cdnmdc1.useetv.com/joss/15/foxsport3/chunklist_w438174151_b1344100_sleng_enc=c9AIiO0fo7CezahiPcnp_Q.m3u8
+#EXTINF:-1,Golf
+https://cdnmdc1.useetv.com/joss/15/golfplus/chunklist_w1663204575_b1344100_sleng_enc=jsIJsYpi5Bmk67teaZbkrg.m3u8
+#EXTINF:-1,Nat Geo
+https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1465420621_b1344100_sleng_enc=Qatla_OZa0fPIJxIJc-oyg.m3u8
+#EXTINF:-1,Nat Geo People
+https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w147764089_b1344100_sleng_enc=_2CC9cwMq4hwm42dw98skQ.m3u8
+#EXTINF:-1,Nat Geo Wild
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1534402753_b1344100_sleng_enc=CPrNFpyb9yAhKs4gvvjohA.m3u8
+#EXTINF:-1,Discovery Channel
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1504404639_b1344100_sleng_enc=xc3yjRjz9XCypxSUusEp7w.m3u8
+#EXTINF:-1,NBA
+https://vcdnjt.useetv.com/joss/15/nba/chunklist_w1277957529_b1344100_sleng_enc=82mc5giHNqR7Gj1N0yPpqQ.m3u8
+#EXTINF:-1,Ruang Trampil
+https://vcdnjt.useetv.com/joss/15/useeinfo/chunklist_w24991346_b1344100_sleng_enc=HnOOoAQSN7-W49VqvO9YVg.m3u8
+#EXTINF:-1,Usee Photo
+https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_w2019479483_b1344100_sleng_enc=Y3ut-y9KK6Rg9j0YarXM9g.m3u8
+#EXTINF:-1,Usee Prime
+https://vcdnjt.useetv.com/joss/15/useeprime/chunklist_w944534628_b894100_sleng_enc=A3bRBvRtCvBZoVM7wYsypA.m3u8
+#EXTINF:-1,Idku
+https://vcdnjt.useetv.com/joss/15/idku/chunklist_w563378725_b1344100_sleng_enc=yF4HPzLnGlt6y4JEJoXqAg.m3u8
+#EXTINF:-1,TVRI
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w668632174_b684100_sleng_enc=V9CuXum0S3w6ft1QkNxQuA.m3u8
+#EXTINF:-1,Indosiar
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1605374272_b894100_sleng_enc=2hoDwqkNdyfl9GrIOgfFKA.m3u8
+#EXTINF:-1,Metro TV
+https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w279569141_b1344100_sleng_enc=UEayl_EjPjN46--F2ZJ-Kw.m3u8
+#EXTINF:-1,Kompas TV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w159506469_b894100_sleng_enc=b4BDx3kVOVHe1xcc4zZJLg.m3u8
+#EXTINF:-1,Net TV
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w85625087_b1344100_sleng_enc=E3K8jnVayBfOQR9MCEALvw.m3u8
+#EXTINF:-1,Rajawali TV
+https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w1657942213_b684100_sleng_enc=E95fpNDZtUK_mBKBzS08cQ.m3u8
+#EXTINF:-1,SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w832848903_b1344100_sleng_enc=gNt6H9vK1MXxGq5StuaZ5A.m3u8
+#EXTINF:-1,Trans 7
+https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1165879286_b1344100_sleng_enc=FX5Hjmvl6TcFoIk9BNJSZw.m3u8
+#EXTINF:-1,Trans TV
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w1804262792_b1344100_sleng_enc=_db_k0QQhnXQPkI9vomOKg.m3u8
+#EXTINF:-1,Crime Investigation
+https://vcdnjt.useetv.com/joss/15/crimeinvestigation/chunklist_w114679151_b894100_sleng_enc=kzqE3zAyXs8RjeagzXTcMg.m3u8
+#EXTINF:-1,Berita Satu
+https://vcdnjt.useetv.com/joss/14/beritasatu/chunklist_w2086667463_b684100_sleng_enc=KwgHkAUPLKT9F_vXZZn9qw.m3u8
+#EXTINF:-1,Citra Drama
+https://vcdnjt.useetv.com/joss/14/cdrama/chunklist_w988212462_b684100_sleng_enc=1mKgKqwH1g09OQTZvzc5vA.m3u8
+#EXTINF:-1,Dunia Lain
+https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_w1435193157_b684100_sleng_enc=zlt4frtt0cfV67iuy1x_MA.m3u8
+#EXTINF:-1,Duck TV
+https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w1901598746_b684100_sleng_enc=7vRxUtguff4VpjAQltyVRg.m3u8
+#EXTINF:-1,Horee
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w940410833_b684100_sleng_enc=TCn9Xmt2HCjzMqjV_Xg_PQ.m3u8
+#EXTINF:-1,IMC
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w1400538716_b684100_sleng_enc=botbI9_jWWJ3SL37XblFZw.m3u8
+#EXTINF:-1,MUI TV
+https://vcdnjt.useetv.com/joss/14/muitv/chunklist_w557156201_b684100_sleng_enc=HFIyA-NVOPzs1B5kO2DrNA.m3u8
+#EXTINF:-1,MyTV
+https://vcdnjt.useetv.com/joss/14/mytv/chunklist_w1333000769_b684100_sleng_enc=zuhel2GN6xnzD1GECycrhQ.m3u8
+#EXTINF:-1,I-Konser
+https://vcdnjt.useetv.com/joss/14/ikonser/chunklist_w840429910_b684100_sleng_enc=atDg1UCo2hOOwkncow8bIA.m3u8
+#EXTINF:-1,T Music
+https://vcdnjt.useetv.com/joss/14/tmusic/chunklist_w703927150_b684100_sleng_enc=7b69rxVX28PxokwN_xddWA.m3u8
+#EXTINF:-1,MTV Live
+https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w49063141_b1344100_sleng_enc=zdv9zzufku6dSwmqbQ1_mw.m3u8
+#EXTINF:-1,Citra Dangdut
+https://vcdnjt.useetv.com/joss/14/citradangdut/chunklist_w551632234_b684100_sleng_enc=XooJOvG95uDhXFW3eDZZhw.m3u8
+#EXTINF:-1,TV Edukasi
+https://vcdnjt.useetv.com/joss/14/tvedukasi/chunklist_w1979693699_b684100_sleng_enc=vrb8fyrcem0n22_M3yc2SQ.m3u8
+#EXTINF:-1,TV9 NU
+https://vcdnjt.useetv.com/joss/14/tv9/chunklist_w614585418_b684100_sleng_enc=WMv8GCITorRwl5ccUoR81g.m3u8
+#EXTINF:-1,Makkah TV
+https://vcdnjt.useetv.com/joss/14/alquran/chunklist_w560682499_b684100_sleng_enc=_XpkJ3K_5TvfDhE6aM8V7w.m3u8
+#EXTINF:-1,Arirang
+https://vcdnjt.useetv.com/joss/14/arirang/chunklist_w473715379_b684100_sleng_enc=C9Nyxvtvj7zplzju8szzgg.m3u8
+#EXTINF:-1,Tawaf TV
+https://vcdnjt.useetv.com/joss/14/tawaftv/chunklist_w1160137030_b684100_sleng_enc=5qh7cffcyNMeXxiC841lyA.m3u8
+#EXTINF:-1,Khazanah
+https://vcdnjt.useetv.com/joss/14/khazanah/chunklist_w1085817140_b684100_sleng_enc=moIfzQCwuEFD6uL6CHl2AQ.m3u8
+#EXTINF:-1,MQTV
+https://vcdnjt.useetv.com/joss/14/mqtv/chunklist_w2005967074_b684100_sleng_enc=5-r4t5awZzONjXpV0c6RUw.m3u8
+#EXTINF:-1,Muhammadiyah TV
+https://vcdnjt.useetv.com/joss/14/muhammadiyahtv/chunklist_w2071086318_b684100_sleng_enc=qQekWDWfOkZmlFXidIvSPA.m3u8
+#EXTINF:-1,Rodja TV
+https://vcdnjt.useetv.com/joss/14/rodjatv/chunklist_w1603105970_b684100_sleng_enc=x-z2CtooD6dThe6dkONI2Q.m3u8
+#EXTINF:-1,Animax
+https://vcdnjt.useetv.com/joss/14/animax/chunklist_w1080787658_b684100_sleng_enc=WCg-y23RBK0I0Bv34UOfjg.m3u8
+#EXTINF:-1,Cinema World
+https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w1357338619_b684100_sleng_enc=jgx7EPGVdEW7QmnyEuWyMA.m3u8
+#EXTINF:-1,AXN
+https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1286203498_b1344100_sleng_enc=Mt8IjD0HTApD3AkCNx18aQ.m3u8
+#EXTINF:-1,TVN
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1662115937_b1344100_sleng_enc=q1bXNfouFArLCqjj65eqyQ.m3u8
+#EXTINF:-1,TVN Movies
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w1520599731_b1344100_sleng_enc=9bKYfrGHjHu4kx8bLL15yg.m3u8
+#EXTINF:-1,KBS World
+https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1323464104_b1344100_sleng_enc=m7T5q0OdYYwoHB-JCFfT8Q.m3u8
+#EXTINF:-1,Blue Ant Ent
+https://vcdnjt.useetv.com/joss/14/blueant/chunklist_w1066778269_b684100_sleng_enc=hvr4OMMneyAIG0aoNKi_UQ.m3u8
+#EXTINF:-1,Blue Ant Extreme
+https://vcdnjt.useetv.com/joss/14/blueantextreme/chunklist_w1589638370_b684100_sleng_enc=wOTm5P6SCj7JcO3TnUwZ1w.m3u8
+#EXTINF:-1,CNN Indonesia
+https://vcdnjt.useetv.com/joss/15/cnnindonesia/chunklist_w1678001808_b1344100_sleng_enc=O88_UhTwGJuQpNi1jTHobg.m3u8
+#EXTINF:-1,Lifetime
+https://vcdnjt.useetv.com/joss/14/lifetime/chunklist_w647028402_b684100_sleng_enc=_1XeNOiZ4plybbMU-eQ7_A.m3u8
+#EXTINF:-1,Eat & Go
+https://vcdnjt.useetv.com/joss/14/eatgo/chunklist_w1526130533_b684100_sleng_enc=dj_Dq9IJfW2zw1GhZpdrpQ.m3u8
+#EXTINF:-1,Flik
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w1079333228_b1344100_sleng_enc=Kvlv7aObCm5ncaKQaNlFhw.m3u8
+#EXTINF:-1,Galaxy
+https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w1860185221_b894100_sleng_enc=-QSLg1GJnRa9-yOY3e4mmA.m3u8
+#EXTINF:-1,History
+https://vcdnjt.useetv.com/joss/15/history/chunklist_w787628992_b1344100_sleng_enc=EtsYcgToU5z6lfQ12A0Hzg.m3u8
+#EXTINF:-1,Kix
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1480093177_b1344100_sleng_enc=VAJfjk60q1CzN9i90WrG2A.m3u8
+#EXTINF:-1,Thrill
+https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w2038920016_b684100_sleng_enc=Dmrpkhd-LY9AzuC3ca7swQ.m3u8
+#EXTINF:-1,Nick Junior
+https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w1595427139_b684100_sleng_enc=rCyZsG_QMFmObOnh4oQygg.m3u8
+#EXTINF:-1,Antv
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1504398086_b894100_sleng_.m3u8
+#EXTINF:-1,TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1,TVONE
+https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng_enc=Y7TB1Q_0vmsDzeGSeAmxzg.m3u8
+#EXTINF:-1,: B4U Music
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128413
+#EXTINF:-1,: SONY MAX FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128411
+#EXTINF:-1,: SONY SAB
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128410
+#EXTINF:-1,: SONY TV FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128409
+#EXTINF:-1,: Star Gold FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128406
+#EXTINF:-1,: Star Plus FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128405
+#EXTINF:-1,: Zee Cinema FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128403
+#EXTINF:-1,: Zee TV FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128402
+#EXTINF:-1,: Colors FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128401
+#EXTINF:-1,ColorsCineplex
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128400
+#EXTINF:-1,ColorsRishtey
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128399
+#EXTINF:-1,SONY MAX 2
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128391
+#EXTINF:-1,: B4U Movies
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128390
+#EXTINF:-1,USA | Baby First TV HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130225
+#EXTINF:-1,USA | Baby TV UHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130224
+#EXTINF:-1,USA | Cartoon Network HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130223
+#EXTINF:-1,USA | Disney Channel HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130222
+#EXTINF:-1,USA | Disney Junior HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130221
+#EXTINF:-1,USA | Disney XD HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130220
+#EXTINF:-1,USA | Nickelodeon HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130219
+#EXTINF:-1,USA | Nick Toons HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130218
+#EXTINF:-1,USA | PBS Kids HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130217
+#EXTINF:-1,USA | POP Max HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130216
+#EXTINF:-1,USA | Teen Nick HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130215
+#EXTINF:-1,USA | Nick Jr HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130214
+#EXTINF:-1,BB: CBBC HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128415
+#EXTINF:-1,BB: CBEEBIES HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128416
+#EXTINF:-1,CITV
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128417
+#EXTINF:-1,Nick Jr Peppa Pig
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128418
+#EXTINF:-1,UK FHD |  Disney Channel
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128431
+#EXTINF:-1,UK FHD |  Nick
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128427
+#EXTINF:-1,UK FHD | Cartoon Network
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128433
+#EXTINF:-1,UK FHD | Disney Junior
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128430
+#EXTINF:-1,UK FHD | Disney XD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128428
+#EXTINF:-1,UK SD |  Nick Jr Too
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128426
+#EXTINF:-1,UK SD |  Nick Jr.
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128425
+#EXTINF:-1,UK SD |  Nickelodeon
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128424
+#EXTINF:-1,UK SD |  Nicktoons
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128423
+#EXTINF:-1,UK SD | Baby tv
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128419
+#EXTINF:-1,UK SD | Boomerang
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128434
+#EXTINF:-1,UK SD | Cartoonito
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128432
+#EXTINF:-1,UK SD | Disney Junior
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128429
+#EXTINF:-1,UK SD | Pop
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128422
+#EXTINF:-1,UK SD | Pop Max
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128421
+#EXTINF:-1,UK SD | Tiny Pop
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128420
+#EXTINF:-1,UK | SuperSport 1
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130301
+#EXTINF:-1,UK | SuperSport 2
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130300
+#EXTINF:-1,UK | SuperSport 3
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130299
+#EXTINF:-1,UK | SuperSport 4
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130298
+#EXTINF:-1,UK | SuperSport 5
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130297
+#EXTINF:-1,UK | SuperSport 6
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130296
+#EXTINF:-1,UK | SuperSport 7
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130295
+#EXTINF:-1,UK | SuperSport 8
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130294
+#EXTINF:-1,UK | SuperSport 9
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130293
+#EXTINF:-1,UK | SuperSport 10
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130292
+#EXTINF:-1,UK | SuperSport 11
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130291
+#EXTINF:-1,UK | SuperSport 12
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130290
+#EXTINF:-1,UK | SUPERSPORT BLITZ
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130289
+#EXTINF:-1,UK | SUPERSPORT MAXIMO
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/130288
+#EXTINF:-1,Sky Sports News FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128446
+#EXTINF:-1,BT Sport 1 FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128244
+#EXTINF:-1,BT Sport 1 HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128243
+#EXTINF:-1,BT Sport 2 FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128241
+#EXTINF:-1,BT Sport 2 HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128240
+#EXTINF:-1,BT Sport 3 FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128238
+#EXTINF:-1,BT Sport 3 HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128237
+#EXTINF:-1,BT Sport ESPN FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128235
+#EXTINF:-1,BT Sport ESPN HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128234
+#EXTINF:-1,Sky Sports Action FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128232
+#EXTINF:-1,Sky Sports Action HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128231
+#EXTINF:-1,Sky Sports Arena FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128229
+#EXTINF:-1,Sky Sports Arena HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128228
+#EXTINF:-1,Sky Sports Cricket FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128226
+#EXTINF:-1,Sky Sports Cricket HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128225
+#EXTINF:-1,Sky Sports F1 FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128223
+#EXTINF:-1,Sky Sports F1 HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128222
+#EXTINF:-1,Sky Sports Football FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128220
+#EXTINF:-1,Sky Sports Football HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128219
+#EXTINF:-1,Sky Sports Golf FHD  (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128217
+#EXTINF:-1,Sky Sports Golf HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128216
+#EXTINF:-1,Sky Sports Main Event FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128214
+#EXTINF:-1,Sky Sports Main Event HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128213
+#EXTINF:-1,Sky Sports Mix FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128211
+#EXTINF:-1,Sky Sports Mix HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128210
+#EXTINF:-1,Sky Sports Premier League FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128205
+#EXTINF:-1,Sky Sports Premier League HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128204
+#EXTINF:-1,Sky Sports Racing FHD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128202
+#EXTINF:-1,Sky Sports Racing HD (B&amp;W)
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128201
+#EXTINF:-1,UK FHD | Racing TV
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128199
+#EXTINF:-1,: Freesports FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128196
+#EXTINF:-1,Liverpool FC TV FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128195
+#EXTINF:-1,FrontRunner
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128194
+#EXTINF:-1,Premier 2 FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128193
+#EXTINF:-1,Premier 1 FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128192
+#EXTINF:-1,EirSport 1 FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128191
+#EXTINF:-1,BoxNation
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128190
+#EXTINF:-1,MUTV HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128189
+#EXTINF:-1,Premier Sports LaLiga FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128188
+#EXTINF:-1,SAFC
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128187
+#EXTINF:-1,Wigan tv
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128186
+#EXTINF:-1,Film4
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128270
+#EXTINF:-1,Film4 FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128271
+#EXTINF:-1,Horror Channel
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128269
+#EXTINF:-1,Movies 24
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128275
+#EXTINF:-1,Retro Movies
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128124
+#EXTINF:-1,Sky Cimema Select HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128264
+#EXTINF:-1,Sky Cinema Action FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128268
+#EXTINF:-1,Sky Cinema Action HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128267
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128274
+#EXTINF:-1,Sky Cinema Comedy HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128266
+#EXTINF:-1,Sky Cinema Disney FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128263
+#EXTINF:-1,Sky Cinema Disney HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128262
+#EXTINF:-1,Sky Cinema Drama FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128261
+#EXTINF:-1,Sky Cinema Drama HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128260
+#EXTINF:-1,Sky Cinema Family FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128259
+#EXTINF:-1,Sky Cinema Family HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128258
+#EXTINF:-1,Sky Cinema Greats FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128257
+#EXTINF:-1,Sky Cinema Greats HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128256
+#EXTINF:-1,Sky Cinema Hits FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128255
+#EXTINF:-1,Sky Cinema Hits HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128254
+#EXTINF:-1,Sky Cinema Premiere FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128253
+#EXTINF:-1,Sky Cinema Premiere HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128252
+#EXTINF:-1,Sky Cinema SciFi &amp; Hor FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128251
+#EXTINF:-1,Sky Cinema SciFi &amp; Hor HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128250
+#EXTINF:-1,Sky Cinema Select FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128265
+#EXTINF:-1,Sky Cinema Thriller FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128249
+#EXTINF:-1,Sky Cinema Thriller HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128248
+#EXTINF:-1,Sony Action
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128247
+#EXTINF:-1,Sony Movies
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128246
+#EXTINF:-1,Sony Movies Classic
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128273
+#EXTINF:-1,TCM
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128272
+#EXTINF:-1,TCM FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128245
+#EXTINF:-1,Animal Planet FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128309
+#EXTINF:-1,Blaze
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128313
+#EXTINF:-1,Crime Inv FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128305
+#EXTINF:-1,Discovery FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128312
+#EXTINF:-1,Discovery Science
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128323
+#EXTINF:-1,Discovery Shed
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128311
+#EXTINF:-1,Discovery Turbo
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128322
+#EXTINF:-1,DMAX
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128307
+#EXTINF:-1,Eden FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128308
+#EXTINF:-1,EDEN HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128125
+#EXTINF:-1,History
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128320
+#EXTINF:-1,HISTORY FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128318
+#EXTINF:-1,HISTORY2 FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128319
+#EXTINF:-1,HISTORY2 HD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128321
+#EXTINF:-1,Love Nature FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128316
+#EXTINF:-1,Nat Geo WILD FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128314
+#EXTINF:-1,National Geographic FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128315
+#EXTINF:-1,National Geographic SD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128317
+#EXTINF:-1,PBS America
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128324
+#EXTINF:-1,Sky Crime FHD
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128302
+#EXTINF:-1,Sky Documentaries
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128327
+#EXTINF:-1,Sky Nature
+http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128326
