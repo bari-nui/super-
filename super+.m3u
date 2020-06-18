@@ -28,6 +28,12 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1,INEWS [TC][540p
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,MOLA_SPORT FREE HD
+http://iptvhit.live/mulyana/channel/channel/30
+#EXTINF:-1,MOLA_SPORT FREE SD
+http://iptvhit.live/mulyana/channel/channel/31
+#EXTINF:-1,MOLA_SPORT FREEE
+http://iptvhit.live/mulyana/channel/channel/32
 #EXTINF:-1,Usee Sports 1
 https://cdnmdc1.useetv.com/joss/15/useesport/chunklist_w900773852_b1344100_sleng_enc=oStQBNe50bXdVC3Y97qsvQ.m3u8
 #EXTINF:-1,Usee Sports 2
@@ -476,3 +482,13 @@ http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128302
 http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128327
 #EXTINF:-1,Sky Nature
 http://salmonstreams.ddns.net:8080/m@hotmail.co.uk/12345678/128326
+#EXTINF:-1,ARENA1
+http://iptvhit.live/mulyana/channel/channel/1
+#EXTINF:-1,ARENA2
+http://iptvhit.live/mulyana/channel/channel/2
+#EXTINF:-1,ARENA3
+http://iptvhit.live/mulyana/channel/channel/3
+#EXTINF:-1,ARENA4
+http://iptvhit.live/mulyana/channel/channel/4
+#EXTINF:-1,ARENA5
+http://iptvhit.live/mulyana/channel/channel/5
