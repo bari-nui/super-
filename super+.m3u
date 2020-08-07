@@ -1,444 +1,311 @@
 #EXTM3U
-
-
-#EXTINF:-1,~BARINUI~
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/1634
-#EXTINF:-1,EuroSport 2
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/1633
-#EXTINF:-1,RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
-#EXTINF:-1,GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-#EXTINF:-1,MNC
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
-#EXTINF:-1,INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-#EXTINF:-1,GTV [TC][HD]720p
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1,GTV [TC]540p
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:-1,MNC [TC][HD]720p
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1,MNC [TC]540p
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:-1,RCTI [TC][HD]720p
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1,RCTI [TC]540p
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:-1,INEWS [TC][HD]720p
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1,INEWS [TC][540p
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:-1,MOLA_SPORT FREE HD
-http://iptvhit.live/mulyana/channel/channel/30
-#EXTINF:-1,MOLA_SPORT FREE SD
-http://iptvhit.live/mulyana/channel/channel/31
-#EXTINF:-1,MOLA_SPORT FREEE
-http://iptvhit.live/mulyana/channel/channel/32
-#EXTINF:-1,Usee Sports 1
-https://cdnmdc1.useetv.com/joss/15/useesport/chunklist_w900773852_b1344100_sleng_enc=oStQBNe50bXdVC3Y97qsvQ.m3u8
-#EXTINF:-1,Usee Sports 2
-https://cdnmdc1.useetv.com/joss/15/useesports2/chunklist_w1187158371_b1344100_sleng_enc=4hrXjB0Vjur2BUC7UieXYg.m3u8
-#EXTINF:-1,Bein Sport 1
-https://cdnmdc1.useetv.com/joss/15/bein1/chunklist_w1722967105_b1344100_sleng_enc=VYelBb3b8Bkhsf0SLZP4Xg.m3u8
-#EXTINF:-1,Bein Sport 2
-https://cdnmdc1.useetv.com/joss/15/bein2/chunklist_w1561975415_b1344100_sleng._enc=6vIH6kcV9AbHnfuOZGVQJA.m3u8
-#EXTINF:-1,Champion TV 1
-https://cdnmdc1.useetv.com/joss/15/champion1/chunklist_w1404293386_b1344100_sleng_enc=KW-h3CW4PqTKG0Nj9g9G0w.m3u8
-#EXTINF:-1,Champion TV 2
-https://cdnmdc1.useetv.com/joss/15/champion2/chunklist_w610155441_b1344100_sleng_enc=eiN7hXX8ogUYnGeNp-kW7Q.m3u8
-#EXTINF:-1,Fox Sport 1
-https://cdnmdc1.useetv.com/joss/15/foxsport1/chunklist_w429029260_b894100_sleng_enc=csmyzer5hTAdZBeC5gYmAw.m3u8
-#EXTINF:-1,Fox Sport 2
-https://cdnmdc1.useetv.com/joss/15/foxsport2/chunklist_w1077827204_b1344100_sleng_enc=Vprevbkfpq38_qJZmwekzw.m3u8
-#EXTINF:-1,Fox Sport 3
-https://cdnmdc1.useetv.com/joss/15/foxsport3/chunklist_w438174151_b1344100_sleng_enc=c9AIiO0fo7CezahiPcnp_Q.m3u8
-#EXTINF:-1,Golf
-https://cdnmdc1.useetv.com/joss/15/golfplus/chunklist_w1663204575_b1344100_sleng_enc=jsIJsYpi5Bmk67teaZbkrg.m3u8
-#EXTINF:-1,Nat Geo
-https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1465420621_b1344100_sleng_enc=Qatla_OZa0fPIJxIJc-oyg.m3u8
-#EXTINF:-1,Nat Geo People
-https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w147764089_b1344100_sleng_enc=_2CC9cwMq4hwm42dw98skQ.m3u8
-#EXTINF:-1,Nat Geo Wild
-https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1534402753_b1344100_sleng_enc=CPrNFpyb9yAhKs4gvvjohA.m3u8
-#EXTINF:-1,Discovery Channel
-https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1504404639_b1344100_sleng_enc=xc3yjRjz9XCypxSUusEp7w.m3u8
-#EXTINF:-1,NBA
-https://vcdnjt.useetv.com/joss/15/nba/chunklist_w1277957529_b1344100_sleng_enc=82mc5giHNqR7Gj1N0yPpqQ.m3u8
-#EXTINF:-1,Ruang Trampil
-https://vcdnjt.useetv.com/joss/15/useeinfo/chunklist_w24991346_b1344100_sleng_enc=HnOOoAQSN7-W49VqvO9YVg.m3u8
-#EXTINF:-1,Usee Photo
-https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_w2019479483_b1344100_sleng_enc=Y3ut-y9KK6Rg9j0YarXM9g.m3u8
-#EXTINF:-1,Usee Prime
-https://vcdnjt.useetv.com/joss/15/useeprime/chunklist_w944534628_b894100_sleng_enc=A3bRBvRtCvBZoVM7wYsypA.m3u8
-#EXTINF:-1,Idku
-https://vcdnjt.useetv.com/joss/15/idku/chunklist_w563378725_b1344100_sleng_enc=yF4HPzLnGlt6y4JEJoXqAg.m3u8
-#EXTINF:-1,TVRI
-https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w668632174_b684100_sleng_enc=V9CuXum0S3w6ft1QkNxQuA.m3u8
-#EXTINF:-1,Indosiar
-https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1605374272_b894100_sleng_enc=2hoDwqkNdyfl9GrIOgfFKA.m3u8
-#EXTINF:-1,Metro TV
-https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w279569141_b1344100_sleng_enc=UEayl_EjPjN46--F2ZJ-Kw.m3u8
-#EXTINF:-1,Kompas TV
-https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w159506469_b894100_sleng_enc=b4BDx3kVOVHe1xcc4zZJLg.m3u8
-#EXTINF:-1,Net TV
-https://vcdnjt.useetv.com/joss/15/net/chunklist_w85625087_b1344100_sleng_enc=E3K8jnVayBfOQR9MCEALvw.m3u8
-#EXTINF:-1,Rajawali TV
-https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w1657942213_b684100_sleng_enc=E95fpNDZtUK_mBKBzS08cQ.m3u8
-#EXTINF:-1,SCTV
-https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w832848903_b1344100_sleng_enc=gNt6H9vK1MXxGq5StuaZ5A.m3u8
-#EXTINF:-1,Trans 7
-https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1165879286_b1344100_sleng_enc=FX5Hjmvl6TcFoIk9BNJSZw.m3u8
-#EXTINF:-1,Trans TV
-https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w1804262792_b1344100_sleng_enc=_db_k0QQhnXQPkI9vomOKg.m3u8
-#EXTINF:-1,Crime Investigation
-https://vcdnjt.useetv.com/joss/15/crimeinvestigation/chunklist_w114679151_b894100_sleng_enc=kzqE3zAyXs8RjeagzXTcMg.m3u8
-#EXTINF:-1,Berita Satu
-https://vcdnjt.useetv.com/joss/14/beritasatu/chunklist_w2086667463_b684100_sleng_enc=KwgHkAUPLKT9F_vXZZn9qw.m3u8
-#EXTINF:-1,Citra Drama
-https://vcdnjt.useetv.com/joss/14/cdrama/chunklist_w988212462_b684100_sleng_enc=1mKgKqwH1g09OQTZvzc5vA.m3u8
-#EXTINF:-1,Dunia Lain
-https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_w1435193157_b684100_sleng_enc=zlt4frtt0cfV67iuy1x_MA.m3u8
-#EXTINF:-1,Duck TV
-https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w1901598746_b684100_sleng_enc=7vRxUtguff4VpjAQltyVRg.m3u8
-#EXTINF:-1,Horee
-https://vcdnjt.useetv.com/joss/14/horee/chunklist_w940410833_b684100_sleng_enc=TCn9Xmt2HCjzMqjV_Xg_PQ.m3u8
-#EXTINF:-1,IMC
-https://vcdnjt.useetv.com/joss/14/imc/chunklist_w1400538716_b684100_sleng_enc=botbI9_jWWJ3SL37XblFZw.m3u8
-#EXTINF:-1,MUI TV
-https://vcdnjt.useetv.com/joss/14/muitv/chunklist_w557156201_b684100_sleng_enc=HFIyA-NVOPzs1B5kO2DrNA.m3u8
-#EXTINF:-1,MyTV
-https://vcdnjt.useetv.com/joss/14/mytv/chunklist_w1333000769_b684100_sleng_enc=zuhel2GN6xnzD1GECycrhQ.m3u8
-#EXTINF:-1,I-Konser
-https://vcdnjt.useetv.com/joss/14/ikonser/chunklist_w840429910_b684100_sleng_enc=atDg1UCo2hOOwkncow8bIA.m3u8
-#EXTINF:-1,T Music
-https://vcdnjt.useetv.com/joss/14/tmusic/chunklist_w703927150_b684100_sleng_enc=7b69rxVX28PxokwN_xddWA.m3u8
-#EXTINF:-1,MTV Live
-https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w49063141_b1344100_sleng_enc=zdv9zzufku6dSwmqbQ1_mw.m3u8
-#EXTINF:-1,Citra Dangdut
-https://vcdnjt.useetv.com/joss/14/citradangdut/chunklist_w551632234_b684100_sleng_enc=XooJOvG95uDhXFW3eDZZhw.m3u8
-#EXTINF:-1,TV Edukasi
-https://vcdnjt.useetv.com/joss/14/tvedukasi/chunklist_w1979693699_b684100_sleng_enc=vrb8fyrcem0n22_M3yc2SQ.m3u8
-#EXTINF:-1,TV9 NU
-https://vcdnjt.useetv.com/joss/14/tv9/chunklist_w614585418_b684100_sleng_enc=WMv8GCITorRwl5ccUoR81g.m3u8
-#EXTINF:-1,Makkah TV
-https://vcdnjt.useetv.com/joss/14/alquran/chunklist_w560682499_b684100_sleng_enc=_XpkJ3K_5TvfDhE6aM8V7w.m3u8
-#EXTINF:-1,Arirang
-https://vcdnjt.useetv.com/joss/14/arirang/chunklist_w473715379_b684100_sleng_enc=C9Nyxvtvj7zplzju8szzgg.m3u8
-#EXTINF:-1,Tawaf TV
-https://vcdnjt.useetv.com/joss/14/tawaftv/chunklist_w1160137030_b684100_sleng_enc=5qh7cffcyNMeXxiC841lyA.m3u8
-#EXTINF:-1,Khazanah
-https://vcdnjt.useetv.com/joss/14/khazanah/chunklist_w1085817140_b684100_sleng_enc=moIfzQCwuEFD6uL6CHl2AQ.m3u8
-#EXTINF:-1,MQTV
-https://vcdnjt.useetv.com/joss/14/mqtv/chunklist_w2005967074_b684100_sleng_enc=5-r4t5awZzONjXpV0c6RUw.m3u8
-#EXTINF:-1,Muhammadiyah TV
-https://vcdnjt.useetv.com/joss/14/muhammadiyahtv/chunklist_w2071086318_b684100_sleng_enc=qQekWDWfOkZmlFXidIvSPA.m3u8
-#EXTINF:-1,Rodja TV
-https://vcdnjt.useetv.com/joss/14/rodjatv/chunklist_w1603105970_b684100_sleng_enc=x-z2CtooD6dThe6dkONI2Q.m3u8
-#EXTINF:-1,Animax
-https://vcdnjt.useetv.com/joss/14/animax/chunklist_w1080787658_b684100_sleng_enc=WCg-y23RBK0I0Bv34UOfjg.m3u8
-#EXTINF:-1,Cinema World
-https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w1357338619_b684100_sleng_enc=jgx7EPGVdEW7QmnyEuWyMA.m3u8
-#EXTINF:-1,AXN
-https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1286203498_b1344100_sleng_enc=Mt8IjD0HTApD3AkCNx18aQ.m3u8
-#EXTINF:-1,TVN
-https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1662115937_b1344100_sleng_enc=q1bXNfouFArLCqjj65eqyQ.m3u8
-#EXTINF:-1,TVN Movies
-https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w1520599731_b1344100_sleng_enc=9bKYfrGHjHu4kx8bLL15yg.m3u8
-#EXTINF:-1,KBS World
-https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1323464104_b1344100_sleng_enc=m7T5q0OdYYwoHB-JCFfT8Q.m3u8
-#EXTINF:-1,Blue Ant Ent
-https://vcdnjt.useetv.com/joss/14/blueant/chunklist_w1066778269_b684100_sleng_enc=hvr4OMMneyAIG0aoNKi_UQ.m3u8
-#EXTINF:-1,Blue Ant Extreme
-https://vcdnjt.useetv.com/joss/14/blueantextreme/chunklist_w1589638370_b684100_sleng_enc=wOTm5P6SCj7JcO3TnUwZ1w.m3u8
-#EXTINF:-1,CNN Indonesia
-https://vcdnjt.useetv.com/joss/15/cnnindonesia/chunklist_w1678001808_b1344100_sleng_enc=O88_UhTwGJuQpNi1jTHobg.m3u8
-#EXTINF:-1,Lifetime
-https://vcdnjt.useetv.com/joss/14/lifetime/chunklist_w647028402_b684100_sleng_enc=_1XeNOiZ4plybbMU-eQ7_A.m3u8
-#EXTINF:-1,Eat & Go
-https://vcdnjt.useetv.com/joss/14/eatgo/chunklist_w1526130533_b684100_sleng_enc=dj_Dq9IJfW2zw1GhZpdrpQ.m3u8
-#EXTINF:-1,Flik
-https://vcdnjt.useetv.com/joss/15/flik/chunklist_w1079333228_b1344100_sleng_enc=Kvlv7aObCm5ncaKQaNlFhw.m3u8
-#EXTINF:-1,Galaxy
-https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w1860185221_b894100_sleng_enc=-QSLg1GJnRa9-yOY3e4mmA.m3u8
-#EXTINF:-1,History
-https://vcdnjt.useetv.com/joss/15/history/chunklist_w787628992_b1344100_sleng_enc=EtsYcgToU5z6lfQ12A0Hzg.m3u8
-#EXTINF:-1,Kix
-https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1480093177_b1344100_sleng_enc=VAJfjk60q1CzN9i90WrG2A.m3u8
-#EXTINF:-1,Thrill
-https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w2038920016_b684100_sleng_enc=Dmrpkhd-LY9AzuC3ca7swQ.m3u8
-#EXTINF:-1,Nick Junior
-https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w1595427139_b684100_sleng_enc=rCyZsG_QMFmObOnh4oQygg.m3u8
-#EXTINF:-1,Antv
-https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1504398086_b894100_sleng_.m3u8
-#EXTINF:-1,TVRI Sports
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1,TVONE
-https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng_enc=Y7TB1Q_0vmsDzeGSeAmxzg.m3u8
-#EXTINF:-1,REDBULL 
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/26934
-#EXTINF:-1,ANI PLUS HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28708
-#EXTINF:-1,ANIMAL PLANET
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28707
-#EXTINF:-1,ANIMAX HD KD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28706
-#EXTINF:-1,ASIAN ACTION CHINESE
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33286
-#EXTINF:-1,ASIAN FOOD CHANNEL
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28705
-#EXTINF:-1,ASTRO AEC HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28704
-#EXTINF:-1,ASTRO AOD 350
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33293
-#EXTINF:-1,ASTRO AOD 1
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33288
-#EXTINF:-1,ASTRO AOD 2
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33289
-#EXTINF:-1,ASTRO AOD 3
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33290
-#EXTINF:-1,ASTRO AOD 4
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33291
-#EXTINF:-1,ASTRO AOD 5
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33292
-#EXTINF:-1,ASTRO ARENA HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9616
-#EXTINF:-1,ASTRO AWANI
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9619
-#EXTINF:-1,ASTRO BOLLY ONE HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28691
-#EXTINF:-1,ASTRO CERIA
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9618
-#EXTINF:-1,ASTRO HELLO HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28701
-#EXTINF:-1,ASTRO HUA HEE DAI HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33273
-#EXTINF:-1,ASTRO OASIS
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9615
-#EXTINF:-1,ASTRO PRIMA
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9614
-#EXTINF:-1,ASTRO RIA
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9613
+#EXTINF:-1,VIP IN: TEN 1 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/8138
+#EXTINF:-1,VIP IN: TEN 2 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/15557
+#EXTINF:-1,VIP IN: TEN 3 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/15556
+#EXTINF:-1,VIP IN: Sony ESPN HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/8122
+#EXTINF:-1,VIP IN: STAR SPORTS SELECT 1
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/19328
 #EXTINF:-1,ASTRO SUPERSPORTS 1 HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/19170
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/19170
 #EXTINF:-1,ASTRO SUPERSPORTS 2 HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/19171
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/19171
 #EXTINF:-1,ASTRO SUPERSPORTS 3 HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/19172
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/19172
 #EXTINF:-1,ASTRO SUPERSPORTS 4 HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/19173
-#EXTINF:-1,ASTRO WARNA
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9612
-#EXTINF:-1,AXN HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28696
-#EXTINF:-1,BABY FIRST
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28695
-#EXTINF:-1,BBC EARTH HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28694
-#EXTINF:-1,BEIN SPORTS HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/20367
-#EXTINF:-1,BEIN MAX HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33284
-#EXTINF:-1,BEIN MAX 2 HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33285
-#EXTINF:-1,ASTRO WLT JADE
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33281
-#EXTINF:-1,BLUE ANT ENTER
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33244
-#EXTINF:-1,BLUE ANT EXTREME
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28692
-#EXTINF:-1,BOOMERANG HD KD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28690
-#EXTINF:-1,CARTOON NETWORK
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28689
-#EXTINF:-1,CELESTIAL MOVIES
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28688
-#EXTINF:-1,CINEMA WORLD HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28687
-#EXTINF:-1,CINEMAX HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33258
-#EXTINF:-1,CLASSIC MOVIES CHINESE
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33262
-#EXTINF:-1,COLORS HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33271
-#EXTINF:-1,DISCOVERY CHANNEL
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28686
-#EXTINF:-1,DISCOVERY SCI HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33259
-#EXTINF:-1,DISNEY CH
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28685
-#EXTINF:-1,DISNEY JR
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28684
-#EXTINF:-1,DISNEY XD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28683
-#EXTINF:-1,DMAX HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33269
-#EXTINF:-1,DUNIA SINEMA
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28681
-#EXTINF:-1,FOX FAMILY MOVIES HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28678
-#EXTINF:-1,FOX LIFE HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28677
-#EXTINF:-1,Fox Movies Action HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28670
-#EXTINF:-1,FOX MOVIES HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28676
-#EXTINF:-1,Fox Movies Family
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28669
-#EXTINF:-1,FOX SPORTS 1
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28675
-#EXTINF:-1,FOX SPORTS 2
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28674
-#EXTINF:-1,FOX SPORTS 3
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28673
-#EXTINF:-1,FOX TV HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28672
-#EXTINF:-1,FX CINEMA HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28671
-#EXTINF:-1,History HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9594
-#EXTINF:-1,HITS HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28665
-#EXTINF:-1,HYPP INSPIRASI HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33256
-#EXTINF:-1,HYPP SENSASI
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28664
-#EXTINF:-1,HBO MALAYSIA HD (Eng)
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/34795
-#EXTINF:-1,HBO MALAYSIA HD (Malay)
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/34796
-#EXTINF:-1,HBO HD (Indo)
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/34789
-#EXTINF:-1,HBO HITS HD (Indo)
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/34803
-#EXTINF:-1,HBO RED (Ori)
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/34818
-#EXTINF:-1,HBO SIGNATURE HD (Indo)
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/34798
-#EXTINF:-1,MAX HD (Indo)
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/34808
-#EXTINF:-1,KIX
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28662
-#EXTINF:-1,MTV ASIA
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28661
-#EXTINF:-1,MUTV HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28660
-#EXTINF:-1,NAT GEO ASIA HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28659
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28658
-#EXTINF:-1,NAT GEO WILD HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28657
-#EXTINF:-1,NAURA TV
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28641
-#EXTINF:-1,NICK JR KD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28656
-#EXTINF:-1,NICK KD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28655
-#EXTINF:-1,PESONA HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28651
-#EXTINF:-1,RED HBO HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28650
-#EXTINF:-1,SALAAM HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33248
-#EXTINF:-1,SCM HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33249
-#EXTINF:-1,SCM LEGEND
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33250
-#EXTINF:-1,TV1
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9609
-#EXTINF:-1,TV2
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9608
-#EXTINF:-1,TV3
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9607
-#EXTINF:-1,TV8
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9606
-#EXTINF:-1,TV9
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9605
-#EXTINF:-1,TVN Movies HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/9595
-#EXTINF:-1,UTV MOVIES INTERNATIONAL
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33254
-#EXTINF:-1,WARNER TV HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/33255
-#EXTINF:-1,WWE NETWORK HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/28635
-#EXTINF:-1,Match Arena HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/5202
-#EXTINF:-1,Match Futbol 1 HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/5203
-#EXTINF:-1,Match Futbol 2 HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/5204
-#EXTINF:-1,Match Futbol 3 HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/5205
-#EXTINF:-1,Match Box
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/4091
-#EXTINF:-1,Match Our Sports
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/4090
-#EXTINF:-1,Match Planet
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/4087
-#EXTINF:-1,Match IGRA HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/5206
-#EXTINF:-1,Match TV
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/5201
-#EXTINF:-1,Match TV HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/21579
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/19173
+#EXTINF:-1,ASTRO EPL1 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33278
+#EXTINF:-1,ASTRO EPL 2 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33279
+#EXTINF:-1,ASTRO EPL 3 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33280
+#EXTINF:-1,Flow Sport 1 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/19212
+#EXTINF:-1,Flow Sport 2 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/20200
+#EXTINF:-1,RUSH Sports EPL HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/20250
+#EXTINF:-1,RUSH Sports 1 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/20249
+#EXTINF:-1,RUSH Sports 2 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/20248
+#EXTINF:-1,RUSH Sports 3 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/20247
+#EXTINF:-1,RUSH Sports 4 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/20246
+#EXTINF:-1,RUSH Sports 5 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/20251
+#EXTINF:-1,LE Sports PL TV FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17845
+#EXTINF:-1,LE Sports 1 FHD  [Match Time Only]
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17851
+#EXTINF:-1,LE Sports 2 FHD  [Match Time Only]
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17850
+#EXTINF:-1,LE Sports 3 FHD  [Match Time Only]
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17849
+#EXTINF:-1,LE Sports 4 FHD  [Match Time Only]
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17848
+#EXTINF:-1,LE Sports 5 FHD [Match Time Only]
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17847
+#EXTINF:-1,LE Sports 6 FHD [Match Time Only]
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17846
+#EXTINF:-1,NBCSN Gold HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/15529
+#EXTINF:-1,NBC Gold PL 1HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/15783
+#EXTINF:-1,NBC Gold PL 2HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/15785
+#EXTINF:-1,NBC Gold PL 3HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/15786
+#EXTINF:-1,NBC Gold PL 4HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/15787
+#EXTINF:-1,NBC Gold PL 5HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/15788
+#EXTINF:-1,NBC Gold PL 6HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/15789
+#EXTINF:-1,NBC Gold PL 7HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17858
+#EXTINF:-1,NBC Gold PL 8HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17859
+#EXTINF:-1,NBC Gold PL 9HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17860
+#EXTINF:-1,NBC Gold PL 10HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17861
 #EXTINF:-1,SuperSport 1 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29943
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29943
 #EXTINF:-1,SuperSport 2 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29942
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29942
 #EXTINF:-1,SuperSport 3 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29941
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29941
 #EXTINF:-1,SuperSport 4 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29940
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29940
 #EXTINF:-1,SuperSport 5 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29939
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29939
 #EXTINF:-1,SuperSport 6 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29938
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29938
 #EXTINF:-1,SuperSport 7 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29937
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29937
 #EXTINF:-1,SuperSport 8 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29936
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29936
 #EXTINF:-1,SuperSport 9 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29935
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29935
 #EXTINF:-1,SuperSport 10 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29934
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29934
 #EXTINF:-1,SuperSport 11 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29933
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29933
 #EXTINF:-1,SuperSport 12 FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29932
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29932
 #EXTINF:-1,SuperSport Blitz FHD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/29930
-#EXTINF:-1,SKYNET SPORTS HD
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/7659
-#EXTINF:-1,SKYNET SPORTS 1
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/6076
-#EXTINF:-1,SKYNET SPORTS 2
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/6075
-#EXTINF:-1,SKYNET SPORTS 3
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/6074
-#EXTINF:-1,SKYNET SPORTS 4
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/6073
-#EXTINF:-1,SKYNET SPORTS 5
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/6072
-#EXTINF:-1,SKYNET SPORTS 6
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/6071
-#EXTINF:-1,SKYNET SPORTS+
-http://livego.club:8080/pt4v4YxMQP/SV5FmCe9PQ/30327
-#EXTINF:-1,ARENA1
-http://iptvhit.live/mulyana/channel/channel/1
-#EXTINF:-1,ARENA2
-http://iptvhit.live/mulyana/channel/channel/2
-#EXTINF:-1,ARENA3
-http://iptvhit.live/mulyana/channel/channel/3
-#EXTINF:-1,ARENA4
-http://iptvhit.live/mulyana/channel/channel/4
-#EXTINF:-1,ARENA5
-http://iptvhit.live/mulyana/channel/channel/5
-#EXTINF:-1,IRIB Varzesh TV HD IR
-http://iptvking.123tv.to:8080/EhBTRQ1Hk5/taiz1jI5De/7605
-#EXTINF:-1,Varzesh TV2 IR
-http://iptvking.123tv.to:8080/EhBTRQ1Hk5/taiz1jI5De/80241
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/29930
+#EXTINF:-1,FOX SPORTS NEWS
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/13903
+#EXTINF:-1,Fox Sports 501 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30970
+#EXTINF:-1,Fox Sports 502 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30969
+#EXTINF:-1,FOX Sport 502 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/17633
+#EXTINF:-1,Fox Sports 503 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30968
+#EXTINF:-1,Fox Sports 504 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30967
+#EXTINF:-1,FOX Sport 504 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/16825
+#EXTINF:-1,Fox Sports 505 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30966
+#EXTINF:-1,Fox Sports 506 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30965
+#EXTINF:-1,Fox Sports 507 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30964
+#EXTINF:-1,beIN Sports 1 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30975
+#EXTINF:-1,beIN Sports 2 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30974
+#EXTINF:-1,beIN Sports 3 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30973
+#EXTINF:-1,ESPN 1 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30972
+#EXTINF:-1,ESPN 2 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30971
+#EXTINF:-1,Optus Sport 1 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33651
+#EXTINF:-1,Optus Sport 2 HD ( Only During Events )
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33652
+#EXTINF:-1,Optus Sport 3 HD ( Only During Events )
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33653
+#EXTINF:-1,Optus Sport 4 HD ( Only During Events )
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33654
+#EXTINF:-1,Optus Sport 5 HD ( Only During Events )
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33655
+#EXTINF:-1,Optus Sport 6 HD ( Only During Events )
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33656
+EXTINF:-1, BT Sports 1 HD 1080P
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/8178
+#EXTINF:-1, BT Sports 2 HD 1080P
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/8179
+#EXTINF:-1, BT Sports 3 HD 1080P
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/8180
+#EXTINF:-1, BT Sports ESPN HD 1080P
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/20199
+#EXTINF:-1, Premier Sports 1 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/22620
+#EXTINF:-1, Premier Sports 2 FHD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/30440
+#EXTINF:-1,EuroSport 1 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/1634
+#EXTINF:-1,EuroSport 2
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/1633
 
-
+#EXTINF:-1,ANTV
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6763
+#EXTINF:-1,GLOBAL TV
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6765
+#EXTINF:-1,i NEWS
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6762
+#EXTINF:-1,Indosiar TV
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6764
+#EXTINF:-1,Jak TV ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28762
+#EXTINF:-1,JTV
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/18544
+#EXTINF:-1,Kompas TV
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/18554
+#EXTINF:-1,MNC SPORT HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6745
+#EXTINF:-1,MNC TV
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6760
+#EXTINF:-1,NET
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6754
+#EXTINF:-1,RCTI
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6759
+#EXTINF:-1,RTV
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28745
+#EXTINF:-1,SCTV
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6756
+#EXTINF:-1,Trans 7
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6752
+#EXTINF:-1,Trans TV
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6751
+#EXTINF:-1,Berita Satu ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28806
+#EXTINF:-1,TVRI
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6755
+#EXTINF:-1,ASTRO BOLLY ONE HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28691
+#EXTINF:-1,AXN ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28816
+#EXTINF:-1,CCM ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28802
+#EXTINF:-1,Celestial Movies ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28797
+#EXTINF:-1,Cinema World
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6750
+#EXTINF:-1,DIVA ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28793
+#EXTINF:-1,Fox Crime ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28779
+#EXTINF:-1,Fox Family Movies ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28778
+#EXTINF:-1,Fox ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28777
+#EXTINF:-1,Fox Life ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28776
+#EXTINF:-1,Fox Movies Action ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28775
+#EXTINF:-1,Fox Movies ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28774
+#EXTINF:-1,Hits ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28766
+#EXTINF:-1,Hits Movies ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28765
+#EXTINF:-1,K+ HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/6744
+#EXTINF:-1,Kids Channel ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28760
+#EXTINF:-1,KIX ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28761
+#EXTINF:-1,Movie Channel ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28754
+#EXTINF:-1,SCM ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28744
+#EXTINF:-1,TVN ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28739
+#EXTINF:-1,TVN Movies ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28738
+#EXTINF:-1,Waku Waku Japan ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28734
+#EXTINF:-1,Warner TV ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28733
+#EXTINF:-1,beIN Sports 1 ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28732
+#EXTINF:-1,beIN Sports 2 ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28731
+#EXTINF:-1,beIN Sports 3 ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28730
+#EXTINF:-1,Champion TV1 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/34547
+#EXTINF:-1,Champion TV2 HD
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/34548
+#EXTINF:-1,Fox Sports 1 ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28772
+#EXTINF:-1,Fox Sports 2 ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28771
+#EXTINF:-1,Fox Sports 3 ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28770
+#EXTINF:-1,UseeSports
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33188
+#EXTINF:-1,UseeSports2
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/33189
+#EXTINF:-1,Soccer Channel ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28742
+#EXTINF:-1,Animal Planet ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28815
+#EXTINF:-1,Animax ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28814
+#EXTINF:-1,ANIPLUS
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/18550
+#EXTINF:-1,Baby TV ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28807
+#EXTINF:-1,BBC Earth ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28809
+#EXTINF:-1,Boomerang ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28803
+#EXTINF:-1,Cartoon Network ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28798
+#EXTINF:-1,Citra TV
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28728
+#EXTINF:-1,Crime Investigation ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28794
+#EXTINF:-1,Discovery Channel ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28791
+#EXTINF:-1,Disney Channel ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28790
+#EXTINF:-1,Disney Junior ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28789
+#EXTINF:-1,Disney XD ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28788
+#EXTINF:-1,FX ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28782
+#EXTINF:-1,History ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28767
+#EXTINF:-1,Nat Geo ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28752
+#EXTINF:-1,Nat Geo People ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28751
+#EXTINF:-1,Nat Geo Wild ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28750
+#EXTINF:-1,Nick ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28748
+#EXTINF:-1,Nick JR ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28747
+#EXTINF:-1,Sony ONE
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/18547
+#EXTINF:-1,Thrill
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/18549
+#EXTINF:-1,TLC ID
+http://dragoniptv.club:8080/r16JdPXGbU/NtJW1y6hWN/28741
 
